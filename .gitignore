@@ -1,0 +1,5 @@
+#ignoring all text files
+*.txt
+
+#ignoring all object files
+*.out
